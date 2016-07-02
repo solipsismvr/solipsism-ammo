@@ -1,0 +1,22 @@
+{
+  "name": "solipsism-ammo",
+  "version": "0.0.1",
+  "description": "Ammo.js binding for Solipsism",
+  "main": "src/AmmoBinding.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sminnee/solipsism-ammo.git"
+  },
+  "author": "Sam Minnee <sam.minnee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sminnee/solipsism-ammo/issues"
+  },
+  "homepage": "https://github.com/sminnee/solipsism-ammo#readme",
+  "dependencies": {
+    "ammo.js": "kripken/ammo.js"
+  }
+}

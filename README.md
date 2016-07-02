@@ -1,0 +1,1 @@
+This is an Ammo.js binding for [Solipsism](https://github.com/sminnee/solipsism).
